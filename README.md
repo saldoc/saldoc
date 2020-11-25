@@ -8,7 +8,7 @@
 <img align="right" width="320" height="305" alt="GIF" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/source.gif" />
 
 <p align="left">
-  I'm currently a student of masters in computer science at Gaziantep University. <br/>
+    I'm currently a student of masters in computer science at Gaziantep University. <br/>
   I'm passionate about <b>Javascript</b> and <b>Frontend Technologies</b>. 
   Other things that interest me are -especially management games- <b>Games</b>, <b>Football</b> and <b>Robotic</b>.  
 </p>
@@ -40,7 +40,7 @@
 ---
 
 <p align=left> 
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=saldocc&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=saldocc&show_icons=true&theme=default">
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=saldocc.visitor-badge)
