@@ -21,7 +21,7 @@
 #### Find me at: 
 
 <p align="left">
-   <a href="https://twitter.com/TurkSaldoc">
+   <a href="https://twitter.com/devSaldoc">
     <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
   </a>
    &nbsp  &nbsp  &nbsp
