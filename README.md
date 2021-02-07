@@ -8,10 +8,15 @@
 <img align="right" width="320" height="305" alt="GIF" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/source.gif" />
 
 <p align="left">
-    I'm currently a student of masters in computer science at Gaziantep University. <br/>
-  I'm passionate about <b>Javascript</b> and <b>Frontend Technologies</b>. 
+   I graduated from <b>Electrical and Electronics Engineering</b> in 2019, and then I did a master's degree in <b>Research-Development and Design</b>. <br/>
+  I love being an electrical and electronics engineer -especially electronics- but I think specializing in software will be more enjoyable  in the future as it is now. <br/>
+  I'm passionate about <b>Javascript</b>, <b>React</b> and <b>Frontend Technologies</b>. 
   Other things that interest me are -especially management games- <b>Games</b>, <b>Football</b> and <b>Robotic</b>.  
 </p>
+
+  <a href="https://saldocc.github.io/">
+     <b>Also my spaceship</b>
+  </a>
 
 #### Find me at: 
 
