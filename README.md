@@ -5,8 +5,6 @@
 </p>
 
 
-<img align="right" width="320" height="305" alt="GIF" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/source.gif" />
-
 <p align="left">
    I graduated from <b>Electrical and Electronics Engineering</b> in 2019, and then I did a master's degree in <b>Research-Development and Design</b>. <br/>
   I love being an electrical and electronics engineer -especially electronics- but I think specializing in software will be more enjoyable  in the future as it is now. <br/>
