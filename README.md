@@ -27,7 +27,7 @@
     <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
   </a>
      &nbsp  &nbsp  &nbsp
-   <a href="https://codepen.io/saldocc">
+   <a href="https://codepen.io/saldoc">
     <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">
   </a>
     &nbsp  &nbsp  &nbsp
