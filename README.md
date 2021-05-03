@@ -43,7 +43,7 @@
 ---
 
 <p align=left> 
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=saldocc&show_icons=true&theme=default">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=saldoc&show_icons=true&theme=default">
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=saldocc.visitor-badge)
