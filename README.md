@@ -12,7 +12,7 @@
   Other things that interest me are -especially management games- <b>Games</b>, <b>Football</b> and <b>Robotic</b>.  
 </p>
 
-  <a href="https://saldocc.github.io/">
+  <a href="https://saldoc.github.io/">
      <b>Also my spaceship</b>
   </a>
 
