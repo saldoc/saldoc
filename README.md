@@ -6,10 +6,9 @@
 
 
 <p align="left">
-   I graduated from <b>Electrical and Electronics Engineering</b> in 2019, and then I did a master's degree in <b>Research-Development and Design</b> in 2021. <br/>
-  I love being an electrical and electronics engineer -especially electronics- but I think specializing in software will be more enjoyable  in the future as it is now. <br/>
-  I'm passionate about <b>TypeScript</b>, <b>React</b>, <b>Angular</b>, <b>SPFx</b> and <b>Frontend Technologies</b>. 
-  Other things that interest me are <b>cooking</b>, <b>playing computer games</b>-especially management games-, <b>football</b> and <b>robotic</b>.  
+  I graduated from <b>Electrical and Electronics Engineering</b> in 2019, and then I did a master's degree in <b>Research-Development and Design</b> in 2021. While I cherish my background as an electrical and electronics engineer, my passion has increasingly shifted towards software development. With over 4 years of active involvement in Front-end development, I am dedicated to continuous improvement of my coding skills. I find deep satisfaction in working with <b>TypeScript</b>, <b>React</b>, <b>Angular</b>, <b>SPFx</b>, and various other <b>Frontend Technologies</b>.
+  
+  Being part of an ever-evolving community that eagerly embraces the latest innovations is a source of immense delight for me. My current focus revolves around crafting user-centric interfaces that prioritize ease of use and enjoyment. Achieving this goal calls for a blend of creative and logical thinking. Beyond my professional pursuits, I also enjoy indulging in hobbies such as computer gaming, football, and the art of cooking. These interests not only help me unwind but also contribute to my overall creativity.
 </p>
 
   <a href="https://www.saldoc.dev/">
