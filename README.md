@@ -46,5 +46,5 @@
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=saldocc.visitor-badge)
-![Profile last updated](https://img.shields.io/github/last-commit/saldocc/saldocc)
+![Profile last updated](https://img.shields.io/github/last-commit/saldoc/saldoc)
 
