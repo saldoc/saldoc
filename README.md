@@ -29,13 +29,5 @@
    <a href="https://codepen.io/saldoc">
     <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">
   </a>
-    &nbsp  &nbsp  &nbsp
-   <a href="https://steamcommunity.com/id/saldoc">
-    <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg">
-  </a>
-    &nbsp  &nbsp  &nbsp
-   <a href="https://www.twitch.tv/saldoc">
-    <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg">
-  </a>
 </p>
 
