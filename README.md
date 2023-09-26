@@ -39,9 +39,3 @@
   </a>
 </p>
 
----
-
-<p align=left> 
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=saldoc&show_icons=true&theme=default">
-</p>
-
