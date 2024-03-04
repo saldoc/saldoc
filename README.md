@@ -1,6 +1,6 @@
 <p align=center>
   
-  ![Saldocc](https://github.com/Saldocc/Saldocc/blob/main/Resources/Banner.png)
+  ![Saldocc](https://github.com/Saldocc/Saldocc/blob/main/Resources/linkedin-banner.png)
   
 </p>
 
