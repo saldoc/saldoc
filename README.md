@@ -18,12 +18,12 @@
 #### Find me at: 
 
 <p align="left">
-   <a href="https://twitter.com/devSaldoc">
-    <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
-  </a>
-   &nbsp  &nbsp  &nbsp
    <a href="https://linkedin.com/in/onurcobann/">
     <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+  </a>
+     &nbsp  &nbsp  &nbsp
+  <a href="https://medium.com/@saldoc">
+    <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">
   </a>
      &nbsp  &nbsp  &nbsp
    <a href="https://codepen.io/saldoc">
