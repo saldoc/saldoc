@@ -19,15 +19,15 @@
 
 <p align="left">
    <a href="https://linkedin.com/in/onurcobann/">
-    <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-  </a>
+    <img width="32px" src="https://cdn.simpleicons.org/linkedin/0e76a8/fff">
+   </a>
      &nbsp  &nbsp  &nbsp
   <a href="https://medium.com/@saldoc">
-    <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">
+    <img width="32px" src="https://cdn.simpleicons.org/medium/0e0e0e/fff">
   </a>
      &nbsp  &nbsp  &nbsp
    <a href="https://codepen.io/saldoc">
-    <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">
+    <img width="32px" src="https://cdn.simpleicons.org/codepen/000/fff">
   </a>
 </p>
 
